@@ -3,5 +3,8 @@
   "branch": "numina/hello",
   "source_type": "latex",
   "notes": "",
-  "entries": []
+  "entries": [],
+  "included_files": [
+    "numina/blueprints/hello/hello.tex"
+  ]
 }
